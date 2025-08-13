@@ -9,7 +9,6 @@
 ### 👨‍💻 Sobre mim
 
 - 🎓 Estudante de ADS (2º semestre) – UniProjeção  
-- 💼 Atualmente Auxiliar Administrativo no Grupo JORLAN – GWM  
 - 📈 Em transição para a área de Tecnologia da Informação  
 - 🛠️ Estudando: JavaScript | Python | Banco de Dados | Git/GitHub  
 - 🧠 Interesse por: Desenvolvimento Web, Suporte Técnico e Automação
